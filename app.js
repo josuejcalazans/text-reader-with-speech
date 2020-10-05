@@ -13,7 +13,7 @@ const humanExpressoins = [
     {img: './img/tired.jpg', text: 'Estou cansado'},
     {img: './img/hurt.jpg', text: 'Estou machucado'},
     {img: './img/happy.jpg', text: 'Estou feliz'},
-    {img: './img/angry.jpg', text: 'Estou raiva'},
+    {img: './img/angry.jpg', text: 'Estou com raiva'},
     {img: './img/sad.jpg', text: 'Estou triste'},
     {img: './img/scared.jpg', text: 'Estou assustado'},
     {img: './img/outside.jpg', text: 'Quero ir lá fora'},
